@@ -1,0 +1,3 @@
+https://sysdig.com/blog/dockerfile-best-practices/
+
+https://www.docker.com/blog/intro-guide-to-dockerfile-best-practices/
