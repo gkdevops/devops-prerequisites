@@ -8,4 +8,6 @@ https://linuxhint.com/100_essential_linux_commands/
 
 https://linuxjourney.com/
 
-**Shell Scripting:** https://www.baeldung.com/linux/linux-scripting-series
+**Shell Scripting:** 
+
+https://www.baeldung.com/linux/linux-scripting-series
